@@ -1,0 +1,909 @@
+
+   
+.ma {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1660px;
+    position: absolute;
+}
+
+.main {
+    width: 1660px;
+    height: 80px;
+    background-color: #ffffff;
+    border: 1px solid red;
+}
+
+.TAJ {
+    width: 100px;
+    height: 30px;
+    top: 32px;
+    left: 190px;
+    letter-spacing: 1px;
+    text-align: center;
+    position: absolute;
+    font-size: 25px;
+}
+
+.INNER {
+    width: 150px;
+    height: 30px;
+    top: 60px;
+    left: 165px;
+    letter-spacing: 1px;
+    text-align: center;
+    position: absolute;
+    font-size: 15px;
+}
+
+.main1 {
+    width: 711px;
+    height: 30px;
+    left: 355px;
+    top: 40px;
+    font-size: 16px;
+    letter-spacing: 2px;
+    word-spacing: 20px;
+    text-align: center;
+    color: #4a4a4a;
+    position: absolute;
+}
+
+.main2 {
+    width: 134px;
+    height: 35px;
+    left: 1106px;
+    top: 30px;
+    border: solid 1px #d29851;
+    position: absolute;
+}
+
+.BOOK-A-STAY {
+    width: 94px;
+    height: 12px;
+    left: 20px;
+    top: 13px;
+    font-size: 12px;
+    line-height: 0.86;
+    letter-spacing: 1.5px;
+    text-align: center;
+    color: brown;
+    position: absolute;
+}
+
+.main3 {
+    width: 200px;
+    height: 186px;
+    right: 190px;
+    background-color: #1b1b1b;
+    position: absolute;
+    display: flex;
+}
+
+.PLATINUM {
+    width: 95px;
+    height: 18px;
+    left: 75px;
+    top: 20px;
+    font-size: 16px;
+    line-height: 1.13;
+    letter-spacing: normal;
+    text-align: left;
+    color: #bdeaef;
+    DISPLAY: INLINE;
+    position: absolute;
+}
+
+.TIC {
+    width: 104px;
+    height: 15px;
+    top: 77px;
+    left: 20px;
+    font-family: SunSans;
+    font-size: 17px;
+    line-height: 0.88;
+    letter-spacing: 1px;
+    text-align: left;
+    position: absolute;
+    color: #ffffff;
+}
+
+.Line {
+    width: 199px;
+    height: 3px;
+    top: 58px;
+    border: 0.5px solid #bdeaef;
+    position: absolute;
+}
+
+.TICnum {
+    width: 68px;
+    height: 15px;
+    top: 77px;
+    left: 112px;
+    font-size: 17px;
+    line-height: 0.88;
+    letter-spacing: 1px;
+    text-align: right;
+    color: #ffffff;
+    position: absolute;
+    display: inline-block;
+}
+
+.Line-1 {
+    width: 2px;
+    height: 72px;
+    top: 60px;
+    left: 99px;
+    opacity: 0.3;
+    border: 1px solid #979797;
+    position: absolute;
+}
+
+.Epicure {
+    width: 104px;
+    height: 15px;
+    left: 20px;
+    top: 102px;
+    font-size: 17px;
+    line-height: 0.88;
+    text-align: left;
+    color: #ffffff;
+    position: absolute;
+}
+
+.Epicurenum {
+    width: 68px;
+    height: 15px;
+    left: 112px;
+    top: 102px;
+    font-size: 17px;
+    line-height: 0.88;
+    letter-spacing: 1px;
+    text-align: right;
+    color: #ffffff;
+    position: absolute;
+}
+
+.POINTDIV {
+    width: 160px;
+    height: 35px;
+    left: 20px;
+    top: 131px;
+    box-shadow: 0 4px 24px 0 rgba(0, 0, 0, 0.5);
+    background-color: #d29851;
+    position: relative;
+}
+
+.POINT-SUMMARY {
+    width: 125.6px;
+    height: 12px;
+    left: 17px;
+    top: 12px;
+    font-size: 14px;
+    line-height: 0.86;
+    letter-spacing: 0.5px;
+    text-align: left;
+    color: #ffffff;
+    position: absolute;
+}
+
+.full {
+    width: 1660px;
+    height: 1394px;
+    background-color: #f5f5f5;
+    overflow: hidden;
+}
+
+.Booking-and-redemption {
+    width: 634px;
+    height: 35px;
+    top: 180px;
+    left: 513px;
+    font-size: 35px;
+    line-height: 1;
+    position: absolute;
+    color: #1b1b1b;
+}
+
+.exploremain {
+    width: 297.5px;
+    height: 415px;
+    left: 190px;
+    top: 265px;
+    border-radius: 9px;
+    box-shadow: 0 11px 17px 0 rgba(0, 0, 0, 0.05);
+    background-color: #ffffff;
+    position: absolute;
+}
+
+.exploreimg {
+    width: 108px;
+    height: 132px;
+    top: 69px;
+    left: 94px;
+    position: absolute;
+}
+
+.Explore {
+    width: 110px;
+    height: 25px;
+    top: 260px;
+    left: 94px;
+    font-family: TrajanPro;
+    font-size: 25px;
+    text-align: center;
+    color: #1b1b1b;
+    position: absolute;
+}
+
+.Explore-exp {
+    width: 240px;
+    height: 60px;
+    top: 305px;
+    left: 29px;
+    font-size: 16px;
+    line-height: 1.25;
+    text-align: center;
+    color: #9b9b9b;
+    position: absolute;
+}
+
+.view-hotels-main {
+    width: 297.5px;
+    height: 415px;
+    left: 518px;
+    top: 265px;
+    border-radius: 9px;
+    box-shadow: 0 11px 17px 0 rgba(0, 0, 0, 0.05);
+    background-color: #ffffff;
+    position: absolute;
+    float: left;
+}
+
+.hotelimg {
+    width: 108px;
+    height: 132px;
+    top: 69px;
+    left: 94px;
+    position: absolute;
+}
+
+.View-hotels {
+    width: 172px;
+    height: 25px;
+    top: 260px;
+    left: 62.5px;
+    font-size: 25px;
+    text-align: center;
+    color: #1b1b1b;
+    position: absolute;
+}
+
+.Hotels-exp {
+    width: 240px;
+    height: 40px;
+    top: 305px;
+    left: 29px;
+    font-size: 16px;
+    line-height: 1.25;
+    text-align: center;
+    color: #9b9b9b;
+    position: absolute;
+}
+
+.find-experiences-main {
+    width: 297.5px;
+    height: 415px;
+    left: 846px;
+    top: 265px;
+    border-radius: 9px;
+    box-shadow: 0 11px 17px 0 rgba(0, 0, 0, 0.05);
+    background-color: #ffffff;
+    position: absolute;
+}
+
+.expimg {
+    width: 108px;
+    height: 132px;
+    top: 69px;
+    left: 94px;
+    position: absolute;
+}
+
+.Find-experiences {
+    width: 164px;
+    height: 60px;
+    top: 224px;
+    left: 67px;
+    font-size: 25px;
+    line-height: 1.2;
+    text-align: center;
+    color: #1b1b1b;
+    position: absolute;
+}
+
+.Catalogue-of-all-exp {
+    width: 240px;
+    height: 40px;
+    top: 304px;
+    left: 29px;
+    font-size: 16px;
+    line-height: 1.25;
+    text-align: center;
+    color: #9b9b9b;
+    position: absolute;
+}
+
+.reserve-a-table-main {
+    width: 297.5px;
+    height: 415px;
+    left: 1172px;
+    top: 265px;
+    border-radius: 9px;
+    box-shadow: 0 11px 17px 0 rgba(0, 0, 0, 0.05);
+    background-color: #ffffff;
+    position: absolute;
+}
+
+.tableimg {
+    width: 97px;
+    height: 130px;
+    top: 70px;
+    left: 100px;
+    object-fit: contain;
+    position: absolute;
+}
+
+.Reserve-a-table {
+    width: 131px;
+    height: 60px;
+    top: 224px;
+    left: 84px;
+    font-size: 25px;
+    line-height: 1.2;
+    text-align: center;
+    color: #1b1b1b;
+    position: absolute;
+}
+
+.Catalogue-of-all-res {
+    width: 240px;
+    height: 40px;
+    TOP: 304PX;
+    left: 29px;
+    font-size: 16px;
+    line-height: 1.25;
+    text-align: center;
+    color: #9b9b9b;
+    position: absolute;
+}
+
+.Other-booking {
+    width: 765px;
+    height: 35px;
+    left: 448px;
+    top: 780px;
+    font-size: 35px;
+    line-height: 1;
+    text-align: left;
+    color: #1b1b1b;
+    position: absolute;
+}
+
+.foot {
+    width: 1660px;
+    height: 420px;
+    top: 1575px;
+    background-color: #efeeee;
+}
+
+.taj-icon {
+    width: 47px;
+    height: 47px;
+    left: 190px;
+    top: 1575px;
+    position: absolute;
+}
+
+.TAP-me {
+    width: 220px;
+    height: 136px;
+    left: 190px;
+    top: 1655px;
+    font-size: 17px;
+    line-height: 2;
+    letter-spacing: 1px;
+    text-align: left;
+    color: #1b1b1b;
+    position: absolute;
+}
+
+.TERMS-CONDITIONS {
+    width: 220px;
+    height: 136px;
+    left: 437px;
+    top: 1655px;
+    font-size: 17px;
+    line-height: 2;
+    letter-spacing: 1px;
+    text-align: left;
+    color: #1b1b1b;
+    POSITION: ABSOLUTE;
+}
+
+.Subscribe-Newsletter {
+    width: 220px;
+    height: 105px;
+    left: 687px;
+    top: 1655px;
+    font-size: 17px;
+    line-height: 2.06;
+    letter-spacing: 1px;
+    text-align: left;
+    color: #1b1b1b;
+    position: absolute;
+}
+
+.Join {
+    width: 311px;
+    height: 29px;
+    left: 999px;
+    top: 1655px;
+    font-size: 17px;
+    line-height: 2;
+    letter-spacing: 1px;
+    text-align: left;
+    color: #1b1b1b;
+    position: absolute;
+}
+
+.email-main {
+    width: 311px;
+    height: 40px;
+    left: 999px;
+    top: 1701px;
+    border-radius: 2px;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.07);
+    background-color: #ffffff;
+    position: absolute;
+}
+
+.enter-mail {
+    width: 165px;
+    height: 18px;
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    text-align: left;
+    color: #646464;
+    position: absolute;
+    left: 20px;
+    top: 11px;
+}
+
+.subscribe-main {
+    width: 160px;
+    height: 40px;
+    left: 1309px;
+    top: 1701px;
+    background-color: #d29851;
+    position: absolute;
+}
+
+.SUBSCRIBE {
+    width: 79px;
+    height: 16px;
+    left: 40.5px;
+    top: 12px;
+    font-size: 14px;
+    letter-spacing: 1.75px;
+    text-align: left;
+    color: #ffffff;
+    position: absolute;
+
+}
+
+.Facebook {
+    width: 40px;
+    height: 40px;
+    top: 1772px;
+    left: 999px;
+    position: absolute;
+}
+
+.Instagram {
+    width: 40px;
+    height: 40px;
+    top: 1772px;
+    left: 1054px;
+    object-fit: contain;
+    position: absolute;
+}
+
+.Twitter {
+    width: 40px;
+    height: 40px;
+    top: 1772px;
+    left: 1109px;
+    object-fit: contain;
+    position: absolute;
+}
+
+.giftbox-img {
+    width: 406px;
+    height: 410px;
+    left: 190px;
+    top: 915px;
+    object-fit: contain;
+    position: absolute;
+}
+
+.wit {
+    width: 406px;
+    height: 410px;
+    left: 627px;
+    top: 915px;
+    object-fit: contain;
+    position: absolute;
+}
+
+.taj-giftcard {
+    width: 406px;
+    height: 410px;
+    left: 1064px;
+    top: 915px;
+    object-fit: contain;
+    position: absolute;
+}
+
+.gift {
+    width: 159px;
+    height: 410px;
+    left: 1501px;
+    top: 915px;
+    object-fit: contain;
+    opacity: 0.2;
+    position: absolute;
+}
+
+.symbol {
+    width: 74px;
+    height: 75px;
+    left: 1520px;
+    top: 1150px;
+    font-size: 150px;
+    position: absolute;
+    color: #d29851;
+    opacity: 0.5;
+}
+
+.top1 {
+    width: 386px;
+    height: 50px;
+    left: 200px;
+    top: 865px;
+    background-color: #ffffff;
+    position: absolute;
+    display: flex;
+}
+
+.top2 {
+    width: 386px;
+    height: 50px;
+    left: 637px;
+    top: 865px;
+    background-color: #ffffff;
+    position: absolute;
+}
+
+.top3 {
+    width: 386px;
+    height: 50px;
+    left: 1074px;
+    top: 865px;
+    background-color: #ffffff;
+    position: absolute;
+}
+
+.top4 {
+    width: 149px;
+    height: 50px;
+    left: 1511px;
+    top: 865px;
+    opacity: 0.2;
+    background-color: #ffffff;
+    position: absolute;
+}
+
+.bot1 {
+    width: 388px;
+    height: 150px;
+    left: 200px;
+    top: 1305px;
+    background-color: #ffffff;
+    position: absolute;
+}
+
+.bot2 {
+    width: 388px;
+    height: 150px;
+    left: 637px;
+    top: 1305px;
+    background-color: #ffffff;
+    position: absolute;
+}
+
+.bot3 {
+    width: 388px;
+    height: 150px;
+    left: 1074px;
+    top: 1305px;
+    background-color: #ffffff;
+    position: absolute;
+}
+
+.bot4 {
+    width: 149px;
+    height: 150px;
+    left: 1511px;
+    top: 1305px;
+    opacity: 0.2;
+    background-color: #ffffff;
+    position: absolute;
+}
+
+.title1 {
+    width: 263px;
+    height: 25px;
+    left: 25px;
+    top: 25px;
+    font-size: 23px;
+    line-height: 1;
+    text-align: left;
+    color: #323232;
+    position: absolute;
+}
+
+.title2 {
+    width: 300px;
+    height: 25px;
+    left: 25px;
+    top: 25px;
+    font-size: 23px;
+    line-height: 1;
+    text-align: left;
+    color: #323232;
+    position: absolute;
+}
+
+.title3 {
+    width: 263px;
+    height: 25px;
+    left: 25px;
+    top: 25px;
+    font-size: 23px;
+    line-height: 1;
+    text-align: left;
+    color: #323232;
+    position: absolute;
+}
+
+.title4 {
+    width: 263px;
+    height: 25px;
+    left: 25px;
+    top: 25px;
+    font-size: 23px;
+    line-height: 1;
+    text-align: left;
+    color: #323232;
+    position: absolute;
+    overflow: hidden;
+}
+
+.Shower-Gel {
+    width: 265px;
+    height: 16px;
+    top: 60px;
+    left: 25px;
+    font-size: 16px;
+    line-height: 1;
+    text-align: left;
+    color: #9b9b9b;
+    position: absolute;
+}
+
+.Womens-India-Trust {
+    width: 310px;
+    height: 16px;
+    top: 60px;
+    left: 25px;
+    font-size: 16px;
+    line-height: 1;
+    text-align: left;
+    color: #9b9b9b;
+    position: absolute;
+}
+
+.valid-for {
+    width: 320px;
+    height: 16px;
+    top: 60px;
+    left: 25px;
+    font-size: 16px;
+    line-height: 1;
+    text-align: left;
+    color: #9b9b9b;
+    position: absolute;
+}
+
+.Shower-Gel-Luxury-s {
+    width: 139px;
+    height: 16px;
+    top: 60px;
+    left: 25px;
+    opacity: 0.2;
+    font-size: 16px;
+    line-height: 1;
+    text-align: left;
+    color: #9b9b9b;
+    position: absolute;
+}
+
+.vdmain1, .vdmain2, .vdmain3, .vdmain4 {
+    width: 140px;
+    height: 35px;
+    top: 95px;
+    left: 25px;
+    background-color: #d29851;
+    position: absolute;
+}
+
+.vdmain4 {
+    width: 130px;
+    height: 35px;
+    top: 95px;
+    left: 25px;
+    background-color: #d29851;
+    position: absolute;
+}
+
+.vd1, .vd2, .vd3, .vd4 {
+    width: 120px;
+    height: 14px;
+    left: 20px;
+    top: 11px;
+    font-size: 14px;
+    line-height: 1;
+    letter-spacing: 0.5px;
+    text-align: left;
+    color: #ffffff;
+    position: absolute;
+}
+
+.icon1, .icon2, .icon3, .icon4 {
+    width: 23px;
+    height: 24px;
+    left: 36px;
+    bottom: 12px;
+    position: absolute;
+}
+
+.Price1, .Price2, .Price3, .Price4 {
+    width: 37px;
+    height: 16px;
+    left: 71px;
+    top: 18px;
+    font-size: 18px;
+    line-height: 0.89;
+    text-align: left;
+    color: #323232;
+    position: absolute;
+}
+
+.TIC1, .TIC2, .TIC3, .TIC4 {
+    width: 172px;
+    height: 16px;
+    top: 17px;
+    left: 123px;
+    font-size: 18px;
+    line-height: 0.89;
+    text-align: left;
+    color: #323232;
+    position: absolute;
+}
+
+.rupsym {
+    width: 6.6px;
+    height: 10.1px;
+    left: 303px;
+    top: 18px;
+    position: absolute;
+}
+
+.letter {
+    line-height: 10.1px;
+    font-size: 20px;
+}
+
+.amt1 {
+    width: 35px;
+    height: 12px;
+    left: 315px;
+    top: 20px;
+    font-size: 18px;
+    line-height: 0.67;
+    text-align: left;
+    color: #323232;
+    position: absolute;
+}
+@media screen and (max-width:800px) {
+    .ma {
+        width: 98%;
+    }
+    .main {
+    
+            width: 97%;
+            height: 3.4%px;
+            background-color: #ffffff;
+           border:1px solid red;
+           position:absolute;
+
+    }
+    .main2{
+        width: 25.6%;
+        height: 46.2%;
+        top:27.7%;
+        left:70.8%;
+    }
+    .main1,.main3{
+        display:none;
+    }
+    .full{
+        width:100%;
+    }
+    .BOOK-A-STAY{
+        width:70%;
+        height:46.7%;
+        top:40%;
+        left:9.3%;
+        font-size: 10px;
+        display:inline;
+
+    }
+    .INNER{
+        left:30.5%;
+        width:15.2;
+        top:65%;
+    }
+    .TAJ{
+        left:37%;
+        width:15.2;
+        top:30%;
+    }
+    .Booking-and-redemption{
+        width:88%;
+        height:2.3%;
+        top:21.3%;
+        left:6.2%;
+        font-size:19px;
+        position:absolute;
+        display:inline;
+    }
+    .exploremain{
+        width:43.5%;
+        left:4.8%;
+        top:28.5%;
+        height:30.2%;
+        position: absolute;
+    }
+    .exploreimg{
+        width:41.7%;
+        height:34.7%;
+        top:12.8%;
+        left:24.9%;
+        background-image:  url("compass1.jpg");
+
+    }
+    
+}
